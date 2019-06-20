@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107818823849",
+    "firebase_url": "https://sarkari-result-93e82.firebaseio.com",
+    "project_id": "sarkari-result-93e82",
+    "storage_bucket": "sarkari-result-93e82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107818823849:android:82ead190ae20a8a6",
+        "android_client_info": {
+          "package_name": "com.nirmallabs.sarkariresult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107818823849-rld4t4fbs6c5eqk15jevlgpl7ba69ord.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6J-TNXVzJTnmoMLlKiIo1nuop1_Ka8po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107818823849-rld4t4fbs6c5eqk15jevlgpl7ba69ord.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
